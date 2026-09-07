@@ -56,16 +56,40 @@
 
 ## 🎯 Intereses
 
-- 🧩 Programación y lógica de software
-- 🕹️ Diseño y desarrollo de videojuegos
-- ✨ Creación de experiencias digitales interactivas
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/><br>
+<sub>🧩 Programación y lógica de software</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/controller.png" width="60"/><br>
+<sub>🕹️ Diseño y desarrollo de videojuegos</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/virtual-reality.png" width="60"/><br>
+<sub>✨ Experiencias digitales interactivas</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 📌 Objetivo
 
+<table align="center">
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/growth.png" width="70"/>
+</td>
+<td>
+
 > [!NOTE]
 > Seguir fortaleciendo mis habilidades como desarrollador de software, explorando nuevas tecnologías y aplicando lo aprendido en proyectos reales que combinen creatividad y programación.
+
+</td>
+</tr>
+</table>
 
 <br>
 
