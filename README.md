@@ -10,10 +10,23 @@
 
 ## 👋 Sobre mí
 
+<table>
+<tr>
+<td align="center" width="18%">
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png" width="80"/>
+</td>
+<td>
+
 ¡Hola! Soy **Owen Emanuel Martínez Erazo**, estudiante de bachillerato en la especialidad de **Desarrollo de Software**. Me apasiona la tecnología y estoy en constante aprendizaje sobre las herramientas y lenguajes que dan vida a aplicaciones, videojuegos y sitios web.
+
+</td>
+</tr>
+</table>
 
 > [!TIP]
 > Siempre en busca de nuevos retos para seguir creciendo como desarrollador. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:00C9A7&height=4&section=header" width="100%"/>
 
 <br>
 
@@ -52,7 +65,7 @@
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:F7B733&height=4&section=header" width="100%"/>
 
 ## 🎯 Intereses
 
@@ -73,11 +86,20 @@
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F7B733,100:8E2DE2&height=4&section=header" width="100%"/>
 
 ## 📌 Objetivo
 
 > [!NOTE]
+> Seguir fortaleciendo mis habilidades como desarrollador de software, explorando nuevas tecnologías y aplicando lo aprendido en proyectos reales que combinen creatividad y programación.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3&section=footer" width="100%"/>
+
+<div align="center">
+<sub>Documento creado como parte de mi formación en Desarrollo de Software.</sub>
+</div>
 > Seguir fortaleciendo mis habilidades como desarrollador de software, explorando nuevas tecnologías y aplicando lo aprendido en proyectos reales que combinen creatividad y programación.
 
 <br>
