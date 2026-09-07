@@ -35,17 +35,17 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/flow-chart.png" width="70"/><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f5fa.png" width="70"/><br>
 <b>🗺️ Diagramación</b><br>
 <sub>Diagramas de flujo y UML básico para representar procesos y lógica de sistemas.</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/html-5.png" width="70"/><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f310.png" width="70"/><br>
 <b>🌐 Desarrollo web</b><br>
 <sub>Creación de páginas web con HTML, CSS e interactividad básica.</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/unity.png" width="70"/><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ae.png" width="70"/><br>
 <b>🎮 Unity</b><br>
 <sub>Desarrollo de proyectos interactivos y videojuegos.</sub>
 </td>
@@ -59,15 +59,15 @@
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9e9.png" width="60"/><br>
 <sub>🧩 Programación y lógica de software</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/controller.png" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f579.png" width="60"/><br>
 <sub>🕹️ Diseño y desarrollo de videojuegos</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/virtual-reality.png" width="60"/><br>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2728.png" width="60"/><br>
 <sub>✨ Experiencias digitales interactivas</sub>
 </td>
 </tr>
@@ -77,19 +77,8 @@
 
 ## 📌 Objetivo
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/growth.png" width="70"/>
-</td>
-<td>
-
 > [!NOTE]
 > Seguir fortaleciendo mis habilidades como desarrollador de software, explorando nuevas tecnologías y aplicando lo aprendido en proyectos reales que combinen creatividad y programación.
-
-</td>
-</tr>
-</table>
 
 <br>
 
